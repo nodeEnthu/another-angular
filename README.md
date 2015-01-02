@@ -1,9 +1,10 @@
 another-angular
 ===============
 
-still in works .. following build you own angularjs to make my own..  mainly in an effort to understand angular better and improve js skills
-.. any passersby please dont use it 
+still in works .. following build you own angularjs to make my own..  mainly in an effort to understand angular better and improve js skills.. any passersby please dont use it 
+
 think m done with the scope object 
+
 It passes following tests
 
 Scope
