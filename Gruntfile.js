@@ -26,7 +26,8 @@ module.exports = function(grunt) {
                         'node_modules/lodash/lodash.js' ,  
                         'node_modules/jquery/dist/jquery.js' ,
                         'src/**/*.js' ,  
-                        'test/**/*.js' 
+                        'test/loader_spec.js' ,
+                        'test/injector_spec.js'
                     ],
                     watch_files: [ 'src/**/*.js' ,  'test/**/*.js' ],
                 }
